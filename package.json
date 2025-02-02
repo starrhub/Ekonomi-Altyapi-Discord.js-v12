@@ -1,0 +1,30 @@
+{
+    "name": "ekonomi-botu-altyapi",
+    "version": "1.0.0",
+    "description": "Ekonomi Botu Altyapısı - Discord.js v12",
+    "main": "starr.js",
+    "scripts": {
+      "start": "node starr.js"
+    },
+    "keywords": [
+      "discord",
+      "bot",
+      "ekonomi"
+    ],
+    "author": "Starr",
+    "license": "MIT",
+    "dependencies": {
+      "discord.js": "^12.5.3",
+      "quick.db": "^7.1.3",
+      "moment": "^2.29.1",
+      "ms": "^2.1.3",
+      "moment-duration-format": "^2.3.2"
+   },
+     "repository": {
+      "type": "git",
+      "url": "https://github.com/starrhub/Ekonomi-Altyapi-Discord.js-v12"
+   },
+    "engines": {
+      "node": "16.x"
+    }
+  }
